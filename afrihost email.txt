@@ -1,0 +1,20 @@
+UbuL?mki5xT-
+
+
+Username:	kholwi@blackpro11.co.za
+Password:	Use the email account’s password.
+Incoming Server:	scamander.aserv.co.za
+IMAP Port: 993 POP3 Port: 995
+Outgoing Server:	scamander.aserv.co.za
+SMTP Port: 465
+IMAP, POP3, and SMTP require authentication.
+
+
+
+
+Kind regards 
+
+Avhakholwi Muthaphuli
+BlackPRO11 (PTY) LTD | CSD MAAA0610171
+Telephone: 076 437 2423
+Email: kholwi@blackpro11.co.za
