@@ -99,6 +99,13 @@ const SideMenu = () => {
                 </div>
                 <div className='pt-4 flex items-center rounded-md px-4 duration-300
                     cursor-pointer hover:bg-gray-500 text-white'>
+                    <p className='flex px-4 py-2 text-slate-500'><LocationMarkerIcon className='h-6 text-yellow-700' /></p>
+                    <Link to="/Gis">
+                        <span className='text-[15px] ml-4 text-gray-200'>Location</span>
+                    </Link>
+                </div>
+                <div className='pt-4 flex items-center rounded-md px-4 duration-300
+                    cursor-pointer hover:bg-gray-500 text-white'>
                     <p className='flex px-4 py-2 text-slate-500'><ClipboardIcon className='h-6 text-yellow-700' /></p>
                     <Link to="/Legislation">
                         <span className='text-[15px] ml-4 text-gray-200'>Legislation</span>

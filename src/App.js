@@ -4,7 +4,6 @@ import ErrorPage from './pages/ErrorPage';
 import Dashboard from './pages/Dashboard';
 import Budget from './pages/Budget/Budget';
 import Gis from './pages/Gis/Gis';
-import Map from './components/Map/Map';
 import Backlog from './pages/Backlog/Backlog';
 import Create from './pages/Backlog/create/Create';
 import Createeconomic from './pages/Idp/Economicimpact/createeconomic/createeconomic';
@@ -41,6 +40,7 @@ import Projects from './pages/Budget/Mscoa/Projects/Projects';
 import Standardreporting from './pages/Idp/Standardreporting/Standardreporting';
 import Projectperformance from './pages/Idp/Projectperformance/Projectperformance';
 import Economicimpact from './pages/Idp/Economicimpact/Economicimpact';
+import Map from './components/Map/Map';
 
 function App() {
   return (
